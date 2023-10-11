@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/Cybot.png</file>
+        <file>imagenes/Palanca2Off.PNG</file>
+        <file>imagenes/Palanca2On.png</file>
+        <file>imagenes/Palanca3Off.png</file>
+        <file>imagenes/Palanca3On.png</file>
+        <file>imagenes/PalancaOff.jpg</file>
+        <file>imagenes/PalancaOn.jpg</file>
+        <file>imagenes/Robot.png</file>
+        <file>imagenes/SHARP.png</file>
+        <file>imagenes/Turtlebot4.png</file>
+        <file>imagenes/explosion.png</file>
+        <file>imagenes/smoke.png</file>
+        <file>imagenes/smoke2.png</file>
+        <file>imagenes/ParkinEtsit.png</file>
+        <file>imagenes/panel.jpg</file>
+        <file>imagenes/PanelSolar.png</file>
+        <file>sonidos/explosion.mp3</file>
+        <file>sonidos/alarma.mp3</file>
+        <file>sonidos/emergencia.mp3</file>
+        <file>sonidos/encendido.mp3</file>
+        <file>sonidos/energia.mp3</file>
+        <file>sonidos/boton.mp3</file>
+        <file>sonidos/evacuacion.mp3</file>
+    </qresource>
+</RCC>
